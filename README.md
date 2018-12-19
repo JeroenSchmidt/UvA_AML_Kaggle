@@ -1,1 +1,2 @@
-# UvA_AML_Kaggle
+# Applied Machine Learning Kaggle Competition
+**University of Amsterdam**
